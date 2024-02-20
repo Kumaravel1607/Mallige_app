@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529381198955",
+    "project_id": "mallige-e252b",
+    "storage_bucket": "mallige-e252b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529381198955:android:77d8bee696349e8d4e752e",
+        "android_client_info": {
+          "package_name": "com.mallige.mallige"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUVf2xOAdfnZHhV41WC5czO6Tu_GJkiiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
